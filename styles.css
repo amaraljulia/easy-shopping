@@ -70,10 +70,10 @@ cursor: pointer;
 }
 
 button:hover {
-    opacity: 0.8;
+    opacity: .8;
 }
 button:active {
-    opacity: 0.5;
+    opacity: .5;
 }
 a {
     font-size: 28px;
